@@ -594,26 +594,4 @@
         line-height: 6.5vw;
     }
 
-    .l1 {
-        font-size: 3vw;
-        padding: 2vw;
-        color: aliceblue;
-        justify-items: center;
-        align-content: center;
-        background-color: rgb(37, 37, 37);
-        border: 1px solid rgb(88, 88, 88);
-        height: 30vw;
-    }
-
-    .l2 {
-        font-size: 3vw;
-        padding: 2vw;
-        color: aliceblue;
-        justify-items: center;
-        align-content: center;
-        background-color: rgb(37, 37, 37);
-        border: 1px solid rgb(88, 88, 88);
-        height: 30vw;
-    }
-
 }
