@@ -613,21 +613,3 @@ nav h1 {
     text-align: center;
     line-height: 1.5vw;
 }
-
-.l1 {
-    font-size: 1vw;
-    padding: 2vw;
-    color: aliceblue;
-    justify-items: center;
-    background-color: rgb(37, 37, 37);
-    border: 1px solid rgb(88, 88, 88);
-}
-
-.l2 {
-    font-size: 1vw;
-    padding: 2vw;
-    color: aliceblue;
-    justify-items: center;
-    background-color: rgb(37, 37, 37);
-    border: 1px solid rgb(88, 88, 88);
-}
